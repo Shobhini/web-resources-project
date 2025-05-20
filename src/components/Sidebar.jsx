@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 import { useTheme } from '../context/ThemeContext';
 
 const Sidebar = () => {
-  const { isDarkMode, toggleTheme } = useTheme();
+  const { isDarkMode } = useTheme();
 
   const navItems = [
     { path: '/', label: 'Home' },
@@ -13,8 +13,7 @@ const Sidebar = () => {
     { path: '/books', label: 'Books' },
     { path: '/tools', label: 'Tools' },
     { path: '/editors', label: 'Editors' },
-    // { path: '/resources', label: 'Resources' },
-    // { path: '/contact', label: 'Contact' },
+    { path: '/resources', label: 'Resources' },
   ];
 
   return (
@@ -41,13 +40,6 @@ const Sidebar = () => {
             </NavLink>
           ))}
         </nav>
-
-        <button
-          onClick={toggleTheme}
-          className="mt-8 w-full px-4 py-3 bg-stone-400 border-b-2 bg-gradient-to-r from-[#696969] to-[#807f7f]  dark:bg-gray-700 text-black dark:text-black rounded-lg dark:hover:bg-gray-600 transition-all duration-200 shadow-sm hover:shadow-4xl flex items-center justify-center"  
-        >
-          {isDarkMode ? 'Light Mode' : 'Dark Mode'}
-        </button>
       </div>
     </aside>
   );

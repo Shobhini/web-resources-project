@@ -12,6 +12,7 @@ const Challenges = lazy(() => import('./components/challenges/Index'));
 const Books = lazy(() => import('./components/books/Index'));
 const Tools = lazy(() => import('./components/tools/Index'));
 const Editors = lazy(() => import('./components/editor/Index'));
+const Resources = lazy(() => import('./components/Resources'));
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
               <Route path="/books" element={<Books />} />
               <Route path="/tools" element={<Tools />} />
               <Route path="/editors" element={<Editors />} />
+              <Route path="/resources" element={<Resources />} />
             </Routes>
           </Suspense>
         </main>
