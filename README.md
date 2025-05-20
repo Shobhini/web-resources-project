@@ -1,42 +1,24 @@
 
 <div id="top">
 <h1 align="center">Web Resource Hub 👨‍💻</h1>
-<div align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
-   <br>
-   <img src="https://img.shields.io/github/repo-size/jayk-gupta/web-resources-project?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues/jayk-gupta/web-resources-project?style=for-the-badge" />
-   <img src="https://img.shields.io/github/issues-closed-raw/jayk-gupta/web-resources-project?style=for-the-badge" />
-    <img src="https://img.shields.io/github/license/jayk-gupta/web-resources-project?style=for-the-badge" />
 
-   <img src="https://img.shields.io/github/issues-pr/jayk-gupta/web-resources-project?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors/jayk-gupta/web-resources-project?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/jayk-gupta/web-resources-project?style=for-the-badge" />
-
-   <img src="https://img.shields.io/github/issues-pr-closed-raw/jayk-gupta/web-resources-project?style=for-the-badge" />
-   <img src="https://img.shields.io/github/forks/jayk-gupta/web-resources-project?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/jayk-gupta/web-resources-project?style=for-the-badge" />
-     </div>
 
 ## 🚀 About 
 + [**Web Resource Hub**](https://web-resources-project-dev.vercel.app/) is an open-source project developed for the DevJam Hackathon organized by Social Summer of Code. 
 + It serves as a comprehensive collection of **frontend web resources, including HTML, CSS, JavaScript, and React.** 
 + The project aims to provide developers with a **centralized platform** to access a wide range of frontend tools and resources, making their development process more efficient and productive.
 
-## Deployed Links
 
-### Main ->  https://web-resources-hub-project.vercel.app/
-### Dev  ->  https://web-resources-project-dev.vercel.app/
-### qa   ->  https://web-resources-project-qa.vercel.app/
 
 
 
 
 ## 📷 Screenshot 
 
-![Screenshot 2023-07-24 210406](https://github.com/jayk-gupta/web-resources-project/assets/100681165/6871d84a-5378-4495-94b7-fb30af89560d)
+![image](https://github.com/user-attachments/assets/fbbcf99b-b74e-4fef-9a36-ae5d792f18b0)
+
+
+
 
 
 
@@ -45,17 +27,12 @@
 
 ## ✅ Getting Started
 1. Fork the project, Click on create new fork.
-![s3](https://github.com/jayk-gupta/web-resources-project/assets/100681165/b6fdab7f-61cd-48ba-9462-9ae89c50e4c6)
 
 2. To clone the repository to your local machine, follow these steps:
 
 1. Click on the "Code" button.
 
-![s1](https://github.com/jayk-gupta/web-resources-project/assets/100681165/c6b5a565-212a-467a-a697-2106ba3911a4)
-
 2. Copy the HTTPS Link.
-
-![s2](https://github.com/jayk-gupta/web-resources-project/assets/100681165/a0193d9a-85bc-457f-9edc-d24b93ce9f9d)
 
 4. Open the terminal or command prompt on your computer.
 
@@ -164,45 +141,8 @@ Note: The size of the image should be less than 300 KB.
 ## 🤝 Contributing
 We welcome contributions from the community! If you're interested in contributing to this project, please read our [Contributing Guidelines](./CONTRIBUTING.md)
  for more information on how to get started.
- <hr>
+ 
 
-<h1 align=center> Project Admins </h1>
-<p align="center">
-<table>
-        <tr>
-            <td align="center"><a href="https://github.com/jayk-gupta"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/100681165?v=4" width="100px;"><br><sub><b> Jay Gupta
-                        </b></sub></a><br></td> </a></td>
-
-</table>
-
-<h1 align=center> Project Mentors </h1>
-<p align="center">
-<table>
-        <tr>
-            <td align="center"><a href="https://github.com/debajit13"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/42708550?v=4" width="100px;"><br><sub><b>Debajit Mallick
-                        </b></sub></a><br></td> </a></td>
-            <td align="center"><a href="[https://github.com/varuns-zop"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/100130076?v=4" width="100px;"><br><sub><b>Varun Singh
-                        </b></sub></a><br></td></a></td>
-</table>
-
-## Our Contributors  !! ✨
-### Thanks to these wonderful people: ✨
-
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/jayk-gupta/web-resources-project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jayk-gupta/web-resources-project" />
-
-</a>
-		</td>
-	</tr>
-</table>
-
- # My Awesome Project
 
 🌟 **If you find this project helpful or interesting, please consider giving it a star!** 🌟
 
@@ -210,11 +150,6 @@ Starring the repository helps to raise awareness and attract more users. It show
 
 To star this repository, simply click on the **Star** button at the top-right corner of the page. Thank you for your support! 😊
 
-
-# License
-[MIT License](./LICENSE). This project is licensed under the MIT License.
-<p align="right"><a href="#top">Back to top</a></p>
-</div>
 
 
 
