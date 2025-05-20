@@ -17,7 +17,7 @@ const Card = ({ title, link, description, i, img }) => {
         </div>
 
         <div className="content flex flex-col gap-4 items-center">
-          <h2 className="text-[#e5e5e5] hover:text-[#fff] dark:text-gray-200 dark:hover:text-white text-lg font-bold hover:text-orange-500 transition-colors duration-200">
+          <h2 className="text-[#e5e5e5] hover:text-[#fff] dark:text-gray-200 dark:hover:text-sky-500 text-lg font-bold transition-colors duration-200" hover:shadow="lg">
             {title}
           </h2>
 

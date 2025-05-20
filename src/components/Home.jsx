@@ -39,9 +39,9 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex flex-col justify-start w-full">
+    <div className="flex flex-col justify-start w-full p-8">
       <motion.div
-        className="flex flex-col gap-8"
+        className="flex flex-col gap-8 max-w-4xl"
         initial={{ opacity: 0, translateX: -100 }}
         animate={{ opacity: 1, translateX: 0 }}
         transition={{ duration: 0.5 }}
@@ -56,7 +56,7 @@ export default function Home() {
           <br />
           <span className="text-gray-700 dark:text-gray-300"> Resources </span>
         </h2>
-        <p className="text-lg w-4/5 text-gray-600 dark:text-gray-400">
+        <p className="text-lg text-gray-600 dark:text-gray-400">
           Explore our vast collection of web development resources, designed to
           give you the knowledge and tools you need to succeed in the world of web development!
         </p>

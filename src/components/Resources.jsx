@@ -50,12 +50,12 @@ export default function Resources() {
     : resources.filter(resource => resource.category === activeCategory);
 
   return (
-    <div className="relative w-full min-h-screen bg-white dark:bg-gray-900">
+    <div className="w-full min-h-screen bg-white dark:bg-gray-900 p-8">
       {/* Dark mode toggle - fixed position */}
-      <div className="fixed top-4 right-8 z-[100]">
+      <div className="fixed top-4 right-4 z-[9999]">
         <button
           onClick={toggleTheme}
-          className="p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors duration-300 shadow-lg"
+          className="p-3 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors duration-300 shadow-lg"
           aria-label="Toggle dark mode"
         >
           {isDarkMode ? (
@@ -71,7 +71,7 @@ export default function Resources() {
       </div>
 
       {/* Main content */}
-      <div className="container mx-auto px-4 pt-16">
+      <div className="container mx-auto">
         <div className="flex flex-wrap gap-4 py-4">
           {categories.map((category) => (
             <button
